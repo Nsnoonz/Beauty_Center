@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+/*
+font-family: 'Mr Dafoe', cursive;
+font-family: 'Raleway', sans-serif;
+*/
+@font-face {
+    font-family: 'Prompt-Light';
+    src:url('../fonts/Prompt-Light.woff') format('woff');
+    font-weight:normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sriracha';
+    src:url('../fonts/Sriracha.woff') format('woff');
+    font-weight:normal;
+    font-style: normal;
+}
+.Myfont{
+font-family: 'Prompt-Light';
+}
